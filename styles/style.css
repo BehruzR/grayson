@@ -119,9 +119,11 @@ ul{
     justify-content: center;
     background-attachment: fixed;
 }
-
+body{
+    background: grey;
+}
 .header__content-title{
-    color: #FFF;
+    color: purple;
     font-family: 'PR';
     font-size: 50px;
     font-weight: 400;
